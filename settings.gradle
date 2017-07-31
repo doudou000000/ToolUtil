@@ -1,0 +1,1 @@
+include ':demo3.0', ':app', ':library', ':testanmatedemo', ':toolutils'
